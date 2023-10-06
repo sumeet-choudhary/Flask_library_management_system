@@ -2,7 +2,7 @@
 
 A Library Management Web Application that allows a librarian to track books and their quantity, members, and transactions. (Built with Flask, Jinja, MySQL)
 ---
-### Website live hosted at: [https://github.com/sumeet-choudhary/Flask_library_management_system]
+### Website live hosted at: https://github.com/sumeet-choudhary/Flask_library_management_system
 ### Screenshot :
 
 <img width="1440" alt="Screenshot 2023-10-06 at 7 52 12 PM" src="https://github.com/sumeet-choudhary/Flask_library_management_system/assets/69748152/7bd92792-07aa-44e4-a3a0-bd9cee1a0258">
